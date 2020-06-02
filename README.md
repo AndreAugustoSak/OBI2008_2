@@ -9,4 +9,4 @@ Como corrigir a sua lista:
   - import corrige
   - corrige.nota_da_prova()
 - Salve todos os arquivo no mesmo diretório;
-- Execute o código python de main.py.
+- Execute o código python de main.py

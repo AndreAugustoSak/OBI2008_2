@@ -1,5 +1,5 @@
 # OBI2008_2
-Segunda Lista de Exercícios da Olimpíada Brasileira de Matemática
+Segunda Lista de Exercícios da Olimpíada Brasileira de Informática
 
 Como corrigir a sua lista:
 
